@@ -1,0 +1,1 @@
+print("Hey! " * 3) # Print Hey! 3 times
